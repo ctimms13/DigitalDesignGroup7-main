@@ -1,0 +1,14 @@
+#ignore backups
+*.bak
+# ignore
+transcript[*]
+# ignore vsim files
+*wlf
+#ignore mti
+*.mti
+#ignore work folder
+work/*
+#ignore mpf
+#*.mpf
+#ignore dat files
+*.dat
